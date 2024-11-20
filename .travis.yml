@@ -1,6 +1,7 @@
 sudo: false
 os:
   - linux
+dist: jammy
 language: node_js
 node_js:
   - "stable"
